@@ -1,2 +1,4 @@
-# CIS267_09-06-2023
+# CIS267_Ex01
+Basic character movement and jumping
+colliders, prefabs, sprites, and rigidbody2d
  
